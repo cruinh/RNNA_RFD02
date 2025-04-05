@@ -6,6 +6,10 @@ This is a simple mobile app listing all pokemon reported by `pokeapi.co/api/v2/p
 
 The point of this project is to be used as a development target for speedrunning the initial creation of a fresh react native app, both for practice and for exploring basic differences between new major versions of react native.
 
+## Note
+
+To reiterate: this is a **completed** attempt at the speedrun described below.  To attempt a run yourself, all you need is a working, local react native development environment, an internet connection, and the rules.
+
 ## Speedrun Rules
 
 The requirements for this run are as follows
